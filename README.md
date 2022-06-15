@@ -1,2 +1,3 @@
-# bohrok-animations
-Bohrok Animations
+# Bohrok Animations
+
+The online Bohrok and Bohrok-Kal animations.
