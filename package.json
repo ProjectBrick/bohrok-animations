@@ -2,7 +2,7 @@
 	"private": true,
 	"appName": "Bohrok Animations",
 	"appDomain": "io.github.projectbrick.BohrokAnimations",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"author": "Project Brick",
 	"copyright": "Copyright 2002-2003 The LEGO Group and Templar Studios LLC. Unofficial release by Project Brick.",
 	"scripts": {
