@@ -1,4 +1,4 @@
-# Bohrok Animations -- README
+# Bohrok Animations – README
 
 Makuta has been defeated, but the danger is not past. The insect-like Bohrok swarms have awakened, bringing chaos and destruction everywhere they go. To stop them, the Toa must travel deep underground and be forever transformed.
 
